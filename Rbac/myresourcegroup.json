@@ -10,7 +10,7 @@
                     "Microsoft.Compute/virtualMachines/*",
                     "Microsoft.DevTestLab/schedules/*",
                     "microsoft.insights/metricalerts/*",
-                    "Microsoft.Network/ddosProtectionPlans/*",
+                    "Microsoft.Network/DDoSProtectionPlans/*",
                     "Microsoft.Network/networkInterfaces/*",
                     "Microsoft.Network/networkSecurityGroups/*",
                     "Microsoft.Network/publicIPAddresses/*",
