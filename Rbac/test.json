@@ -1,0 +1,24 @@
+{
+    "Name":  "AZ-700",
+    "Id":  null,
+    "IsCustom":  true,
+    "Description":  "Spektra Training Custom Role.",
+    "Actions":  [
+                    "Microsoft.Authorization/*/read",
+                    "Microsoft.Compute/disks/*",
+                    "Microsoft.Compute/virtualMachines/*",
+                    "Microsoft.DevTestLab/schedules/*",
+                    "Microsoft.Network/azureFirewalls/*",
+                    "Microsoft.Network/firewallPolicies/*",
+                    "Microsoft.Network/networkInterfaces/*",
+                    "Microsoft.Network/networkSecurityGroups/*",
+                    "Microsoft.Network/publicIPAddresses/*",
+                    "Microsoft.Network/routeTables/*",
+                    "Microsoft.Network/virtualNetworks/*",
+                    "Microsoft.Resources/deployments/*",
+                    "Microsoft.Resources/subscriptions/resourceGroups/read"
+                ],
+    "NotActions":  [
+
+                   ]
+}
