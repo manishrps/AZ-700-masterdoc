@@ -11,6 +11,7 @@
                     "Microsoft.DevTestLab/schedules/*",
                     "microsoft.insights/metricalerts/*",
                     "Microsoft.Network/DDoSProtectionPlans/*",
+                    "Microsoft.Network/DDoSProtectionPlans/write",
                     "Microsoft.Network/networkInterfaces/*",
                     "Microsoft.Network/networkSecurityGroups/*",
                     "Microsoft.Network/publicIPAddresses/*",
