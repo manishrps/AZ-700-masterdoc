@@ -24,9 +24,9 @@
 				    "field": "type",
 				    "like": "microsoft.insights/metricalerts/*"
 				    },
-                    {
+             {
 				    "field": "type",
-				    "like": "Microsoft.Network/ddosProtectionPlans/*"
+				    "like": "Microsoft.Network/DDoSProtectionPlans/*"
 				    },
             {
 				    "field": "type",
@@ -46,7 +46,7 @@
 				    },
             {
 				    "field": "type",
-				    "in": ["Microsoft.Compute/disks", "Microsoft.Compute/sshPublicKeys", "Microsoft.Compute/virtualMachines", "Microsoft.DevTestLab/schedules", "microsoft.insights/metricalerts", "Microsoft.Network/ddosProtectionPlans", "Microsoft.Network/networkInterfaces", "Microsoft.Network/networkSecurityGroups", "Microsoft.Network/publicIPAddresses", "Microsoft.Network/virtualNetworks"]
+				    "in": ["Microsoft.Compute/disks", "Microsoft.Compute/sshPublicKeys", "Microsoft.Compute/virtualMachines", "Microsoft.DevTestLab/schedules", "microsoft.insights/metricalerts", "Microsoft.Network/DDoSProtectionPlans", "Microsoft.Network/networkInterfaces", "Microsoft.Network/networkSecurityGroups", "Microsoft.Network/publicIPAddresses", "Microsoft.Network/virtualNetworks"]
 				    }
                 ]
 			}
